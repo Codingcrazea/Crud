@@ -1,0 +1,44 @@
+/* LandingPage.css */
+.hero-section {
+    background: linear-gradient(to right, #5f2c82, #49a09d);
+    color: white;
+    padding: 100px 0;
+  }
+  
+  .hero-section h1 {
+    font-size: 3rem;
+    font-weight: bold;
+  }
+  
+  .hero-section p {
+    font-size: 1.2rem;
+    margin-top: 20px;
+  }
+  
+  .hero-section .btn-primary {
+    background-color: #ff7e5f;
+    border: none;
+  }
+  
+  .features-section {
+    background-color: #f8f9fa;
+  }
+  
+  .features-section h2 {
+    font-weight: bold;
+    color: #5f2c82;
+  }
+  
+  .footer {
+    background-color: #343a40;
+    color: #cfd8dc;
+  }
+  
+  .footer a {
+    color: #ff7e5f;
+  }
+  
+  .footer a:hover {
+    color: #49a09d;
+  }
+  
